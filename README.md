@@ -3,7 +3,7 @@
 This repository contains SQL scripts and analysis for the **Kimia Farma Business Performance Analytics (2020–2023)** project, part of the **Big Data Analyst Internship** at Rakamin Project Based Internship Experience.
 
 ## 📁 Contents
-- `_kf_analyst_query.sql`: Script for creating the main analysis table in BigQuery.
+- `kf_analyst_query.sql`: Script for creating the main analysis table in BigQuery.
 
 ## 🧠 Tools Used
 - Google BigQuery
