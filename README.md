@@ -11,6 +11,7 @@ This repository contains SQL scripts and analysis for the **Kimia Farma Business
 - GitHub
 
 ## 🔗 Dashboard Link
+https://lookerstudio.google.com/reporting/7414da55-a11b-49d4-9834-709ab79457a2
 
 ## 👨‍💻 Author
 Christian Gavriel Emanuel Hariyadi  
